@@ -1,28 +1,35 @@
-# This is a large heading
+# My first original Markdown file
+## By Daniel Rich
+### I wonder how far I can push these headers
+#### Here's four octothorpes
+##### And five
+###### Roku is as far as the headers go
 
-## This is a smaller heading
+If you told me a year ago that *I* would be taking a course from
+**Johns Hopkins University**, I might have said one of the following:
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+- You're nuts
+- Are you stupid
+- No the hell I'm not
 
-- This is
-- an unordered
-- list
+But after:
 
-1. This is
-2. an ordered
-3. list
+1. seeing California
+2. Kat losing her damn mind
+3. Me coming home with my daughter, and
+4. Suddenly needing skills and a job
 
-Here is `some code` in the middle of a sentence.
+I decided to run `DontBeADumbass.exe`, which basically made me:
 
 ```
-This is
-a block
-of code
+Take care of my daughter
+Go to court for custody
+Learn a skill
+Get a job
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+And now, the fruits of my labor are growing [here](https://github.com/furyking380/my-first-repo).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+And my progress has got me like:
+
+![My Face](https://i.kym-cdn.com/entries/icons/original/000/027/475/Screen_Shot_2018-10-25_at_11.02.15_AM.png)
