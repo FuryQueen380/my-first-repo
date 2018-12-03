@@ -1,5 +1,10 @@
 # My first original Markdown file
 ## By Daniel Rich
+### I wonder how far I can push these headers
+#### Here's four octothorpes
+##### And five
+###### Roku
+####### Shichi
 
 If you told me a year ago that *I* would be taking a course from
 **Johns Hopkins University**, I might have said one of the following:
