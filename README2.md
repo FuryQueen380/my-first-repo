@@ -3,8 +3,7 @@
 ### I wonder how far I can push these headers
 #### Here's four octothorpes
 ##### And five
-###### Roku
-####### Shichi
+###### Roku is as far as the headers go
 
 If you told me a year ago that *I* would be taking a course from
 **Johns Hopkins University**, I might have said one of the following:
